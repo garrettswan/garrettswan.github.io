@@ -15,7 +15,7 @@
   <li>Lecturer</li>
 </ul>
 
-<p> Hello world. This is my new website. This should work.</p>
+<p> Hello world.</p>
 
 </body>
 </html>
