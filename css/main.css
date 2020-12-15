@@ -1,0 +1,75 @@
+* {
+  background-color: rgb(200,200,200);
+  font-family: "Roboto",sans-serif;
+  font-size: 1rem;
+}
+
+footer{
+  padding: 20px;
+  border: 20px;
+  font-size: .75rem;
+}
+
+#WebsiteLists {
+  /* width:500px; */
+  height: auto
+  box-sizing: border-box;
+  align-items: center;
+  border: solid black;
+  box-sizing: border-box;
+}
+
+/* All Links hae */
+.Links_list {
+  /* border: 1px solid black; */
+  width: auto;
+  height: auto;
+  font-size: 1.25rem;
+  /* list-style: outside none none; */
+  display: inline-block
+}
+
+.Links{
+  padding: 5px;
+  border: 2px;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+
+#MainHeader {
+  font-size: 1.4rem;
+}
+
+.Links:hover {
+  color: white;
+  background-color: black;
+}
+
+
+#Biography {
+  display: inline-block;
+  width:600px;
+}
+
+#Biotext {
+  width: 300px;
+  display: inline-block;
+  line-height: normal;
+  text-align: justify;
+}
+
+#Garrett_photo {
+  width:200px;
+  display: inline-block;
+}
+
+#OwlLink, #PaintingLink, #LinkedInLink, #GoogleScholarLink {
+  padding: 0px;
+  border: 0px;
+}
+
+/* Leave this at the end so the footer is always a bit smaller */
+#LinkedInLink, #GoogleScholarLink, #FooterEmails{
+  font-size: .75rem;
+}
