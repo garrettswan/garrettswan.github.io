@@ -1,7 +1,7 @@
 * {
-  background-color: rgb(200,200,200);
-  font-family: "Roboto",sans-serif;
-  font-size: 1rem;
+  background-color: rgb(215,215,215);
+  font-family: "Roboto",sans-serif; 
+  font-size: 1.075rem;
 }
 
 footer{
@@ -49,7 +49,7 @@ footer{
 
 #Biography {
   display: inline-block;
-  width:600px;
+  width:700px;
 }
 
 #Biotext {
@@ -57,11 +57,13 @@ footer{
   display: inline-block;
   line-height: normal;
   text-align: justify;
+  padding-left: 30px;
 }
 
 #Garrett_photo {
-  width:200px;
+  width:15rem;
   display: inline-block;
+  padding-left: 30px;
 }
 
 #OwlLink, #PaintingLink, #LinkedInLink, #GoogleScholarLink {
@@ -72,4 +74,8 @@ footer{
 /* Leave this at the end so the footer is always a bit smaller */
 #LinkedInLink, #GoogleScholarLink, #FooterEmails{
   font-size: .75rem;
+}
+
+.classtitle {
+  padding-left: 30px;
 }
