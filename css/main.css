@@ -30,7 +30,8 @@ footer{
 }
 
 .Links{
-  padding: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
   border: 2px;
   display: inline-block;
   text-decoration: none;
@@ -56,12 +57,12 @@ footer{
   width: 300px;
   display: inline-block;
   line-height: normal;
-  text-align: justify;
+  text-align: left;
   padding-left: 30px;
 }
 
 #Garrett_photo {
-  width:15rem;
+  width:16rem;
   display: inline-block;
   padding-left: 30px;
 }
