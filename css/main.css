@@ -1,6 +1,6 @@
 * {
   background-color: rgb(215,215,215);
-  font-family: "Roboto",sans-serif; 
+  font-family: "Roboto",sans-serif;
   font-size: 1.075rem;
 }
 
@@ -76,6 +76,13 @@ footer{
   font-size: .75rem;
 }
 
-.classtitle {
+.classtitletext {
   padding-left: 30px;
+  font-size: .95rem;
+  /* border: 5px solid red; */
+  line-height: 1em;
+  /* height: auto; */
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  margin-top: 10px;
 }
