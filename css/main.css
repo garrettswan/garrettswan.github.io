@@ -11,6 +11,40 @@ footer{
   font-size: .75rem;
 }
 
+.DDLists {
+  text-decoration: none;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+.DDLists .DDListItem {
+  display: inline-block;
+}
+.DDLists .DDListItem:hover {
+  /* background: #555; */
+}
+.DDLists .DDListItem:hover .DDLists {
+  display: block;
+  border-style: solid;
+}
+
+.DDLists .DDListItem .DDLists {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+.DDLists .DDListItem .DDLists .DDListItem {
+  /* background: #555; */
+  display: block;
+}
+.DDLists .DDListItem .DDLists .DDListItem .DDListItemRef {
+  display:block !important;
+}
+.DDLists .DDListItem .DDLists .DDListItem:hover {
+  /* background: #666; */
+}
+
 #WebsiteLists {
   /* width:500px; */
   height: auto
