@@ -105,6 +105,55 @@ footer{
   padding-left: 30px;
 }
 
+
+#Research1Text {
+  width: 400px;
+  display: inline-block;
+  line-height: normal;
+  text-align: left;
+  padding-left: 30px;
+}
+
+#Research1_Photo {
+  width:18rem;
+  display: inline-block;
+  padding-left: 10px;
+  padding-bottom: 60px;
+}
+
+#Research2Text {
+  width: 400px;
+  display: inline-block;
+  line-height: normal;
+  text-align: left;
+  padding-left: 30px;
+}
+
+#Research2_Photo {
+  width:18rem;
+  display: inline-block;
+  padding-left: 10px;
+  padding-bottom: 60px;
+}
+
+
+#Research3Text {
+  width: 400px;
+  display: inline-block;
+  line-height: normal;
+  text-align: left;
+  padding-left: 30px;
+}
+
+#Research3_Photo {
+  width:18rem;
+  display: inline-block;
+  padding-left: 10px;
+  padding-bottom: 60px;
+}
+
+
+
 #OwlLink, #PaintingLink, #LinkedInLink, #GoogleScholarLink {
   padding: 0px;
   border: 0px;
