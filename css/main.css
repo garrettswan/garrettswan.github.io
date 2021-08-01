@@ -153,8 +153,9 @@ footer{
 }
 
 
-.OwlPhotos {
+.Owl_photos {
   width:18rem;
+  isplay: inline-block;
   padding-left: 10px;
   padding-bottom: 60px;
 }
