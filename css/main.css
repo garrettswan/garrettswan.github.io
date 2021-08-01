@@ -153,6 +153,12 @@ footer{
 }
 
 
+.OwlPhotos {
+  width:18rem;
+  padding-left: 10px;
+  padding-bottom: 60px;
+}
+
 
 #OwlLink, #PaintingLink, #LinkedInLink, #GoogleScholarLink {
   padding: 0px;
